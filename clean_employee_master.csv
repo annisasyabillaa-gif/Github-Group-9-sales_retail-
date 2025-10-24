@@ -1,0 +1,20 @@
+EmployeeID,FullName,StoreID
+ EMP-0101 , Aarav Patel ,STO-01
+EMP-0102,Aarav Patel,STO-01
+EMP-0103,Rohan Patel,STO-01
+EMP-0104,Rohan Patel,STO-01
+EMP-0201,Priya Sharma,STO-02
+EMP-0202,Rohan Singh,STO-02
+EMP-0203,Aarav Patel,STO-02
+EMP-0204,Saanvi Sharma, STO-02 
+EMP-0205,Priya Patel,STO-02
+EMP-0301,Aarav Sharma, STO-03 
+EMP-0301,Aarav Sharma,STO-03
+EMP-0303,Saanvi Patel,STO-01
+EMP-0304,Priya Singh,STO-03
+EMP-0104,Priya Sharma,STO-03
+EMP-0401,Saanvi Patel,STO-04
+EMP-0402,Saanvi Sharma,STO-04
+EMP-0403,Rohan Sharma,STO-01
+EMP-0404,Saanvi Sharma,STO-04
+EMP-0405,Rohan Patel,STO-04

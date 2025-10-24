@@ -1,0 +1,5 @@
+id,name,discount
+PROMO-00,No Promotion,0.0
+PROMO-01,Holiday Special,0.15
+PROMO-02,Summer Sale,0.1
+PROMO-03,Loyalty Member Discount,0.05

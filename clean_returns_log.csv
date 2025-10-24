@@ -1,0 +1,38 @@
+ReturnID,TransactionID,OrderLineID,Reason
+RET-1, TRN-9002 ,OL-5,Unwanted Gift
+RET-2,TRN-9787,OL-44,Unwanted Gift
+RET-3,TRN-9037,OL-87,Unwanted Gift
+RET-4, TRN-9048 ,OL-1971,Unwanted Gift
+RET-5, TRN-9100 ,OL-237,Unwanted Gift
+RET-6,TRN-9105,OL-249,Unwanted Gift
+RET-7,TRN-9159,OL-379,Unwanted Gift
+RET-8,TRN-9222,OL-545,Unwanted Gift
+RET-9,TRN-9250,OL-610,Unwanted Gift
+RET-10,TRN-9326,OL-800,Unwanted Gift
+RET-11,TRN-9332,OL-815,Unwanted Gift
+RET-12,TRN-9394,OL-977,Unwanted Gift
+RET-13,TRN-9397,OL-986,Unwanted Gift
+RET-14, TRN-9447 ,OL-1114,Unwanted Gift
+RET-15,TRN-9471,OL-1170,Unwanted Gift
+RET-29,TRN-9503,OL-1971,Unwanted Gift
+RET-17,TRN-9787,OL-1294,Unwanted Gift
+RET-18,TRN-9603,OL-1507,Unwanted Gift
+RET-19,TRN-9648,OL-1625,Unwanted Gift
+RET-20,TRN-9652, OL-1636 ,Unwanted Gift
+RET-21,TRN-9655,OL-1645,Unwanted Gift
+RET-22,TRN-9664,OL-1667,Unwanted Gift
+RET-23,TRN-9667,OL-1675,Unwanted Gift
+RET-24,TRN-9687, OL-1727 ,Unwanted Gift
+RET-25,TRN-9693,OL-1744,Unwanted Gift
+RET-26,TRN-9728,OL-1826,Unwanted Gift
+RET-27,TRN-9742,OL-1864, Unwanted Gift 
+RET-28,TRN-9763,OL-1906,Unwanted Gift
+RET-29,TRN-9787,OL-1971,Unwanted Gift
+RET-31, TRN-9843 ,OL-2111, Unwanted Gift 
+RET-32,TRN-9866,OL-2172,Unwanted Gift
+RET-33,TRN-9877,OL-2194, Unwanted Gift 
+RET-29,TRN-9914,OL-2284, Unwanted Gift 
+RET-35,TRN-9949,OL-2373,Unwanted Gift
+RET-36,TRN-9955,OL-2384,Unwanted Gift
+RET-37,TRN-9968,OL-1971,Unwanted Gift
+RET-37,TRN-9968,OL-2414,Unwanted Gift
